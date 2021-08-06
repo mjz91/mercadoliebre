@@ -1,4 +1,4 @@
-# MercadoLiebre Versión 1 | Clase del jueves 5/08
+# MercadoLiebre Versión 1 
 
 Para este ejercicio se pedían resolver los siguientes puntos:
 
