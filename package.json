@@ -1,13 +1,21 @@
 {
-  "name": "html_css",
+  "name": "mercadoliebre",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjz91/mercadoliebre.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjz91/mercadoliebre/issues"
+  },
+  "homepage": "https://github.com/mjz91/mercadoliebre#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
