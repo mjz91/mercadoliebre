@@ -1,24 +1,32 @@
-MercadoLiebre Versión 1 | Clase del jueves 5/08
+# MercadoLiebre Versión 1 | Clase del jueves 5/08
 
 Para este ejercicio se pedían resolver los siguientes puntos:
 
-1) Levantamos en nuestro IDE el proyecto de Express, el cual debería tener la siguiente estructura de carpetas, verificamos que
-todo funcione correctamente: (hacemos esto levantando el servidor, verificando que no
-tengamos errores)
+1) Levantamos en nuestro IDE el proyecto de Express, el cual debería tener la siguiente estructura de carpetas, verificamos que todo funcione correctamente: (hacemos esto levantando el servidor, verificando que no tengamos errores)
+
 ├── node_modules
+
 ├── public
+
 │
+
 ├── images
+
 ├── views
+
 │
+
 ├── home.html
+
 ├── app.js
+
 └── package.json
 
 2) El archivo home.html deberá tener como mínimo las siguientes secciones:
-    ● header
-    ● main
-    ● footer
+    * header
+    * main
+    * footer
+    
 Veamos qué información debemos mostrar en cada una de ellas:
 
     Header
